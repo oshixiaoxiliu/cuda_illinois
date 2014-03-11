@@ -3,9 +3,9 @@ cuda_illinois
 
 some code about the open class of "Heterogeneous Parallel Programming"
 
-almost clas is teach cuda 
+almost classes are teaching cuda 
 
-those code is the MP code 
+those code are the Mps' code 
 
 here is the class address  https://class.coursera.org/hetero-002
 
